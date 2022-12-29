@@ -23,6 +23,7 @@ alias debian='ssh frank@jenningsdebian.jennings.pri'
 alias debian2='ssh frank@jenningsdebian2.jennings.pri'
 alias debian3='ssh frank@jenningsdebian3.jennings.pri'
 alias pi-nas='ssh frank@pi-nas.jennings.pri'
+alias cloud-docker='ssh frank@45.33.49.94'
 
 ## Colorize the grep command output for ease of use (good for log files)##
 alias grep='grep --color=auto'
